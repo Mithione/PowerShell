@@ -47,4 +47,4 @@ stages:
           command: 'push'
           packagesToPush: '$(Pipeline.Workspace)/**/*.nupkg'
           nuGetFeedType: 'internal'
-          publishVstsFeed: 'TFRED'
+          publishVstsFeed: 'd47d49d5-8dcd-4c23-a7b9-618b5e9c307e/20d2508e-8b93-4059-be83-2593a06c87dc'
